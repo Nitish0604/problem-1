@@ -1,0 +1,2 @@
+frontend:- https://logicstuff-g5wda9n1g-shivcodep.vercel.app
+backend:- https://mysterious-thicket-62434.herokuapp.com
